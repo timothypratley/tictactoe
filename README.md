@@ -1,6 +1,7 @@
 # tictactoe
 
-Win at all costs!
+http://timothypratley.github.io/tictactoe/
+https://www.youtube.com/watch?v=pIiOgTwjbes
 
 ## Overview
 
